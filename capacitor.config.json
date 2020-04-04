@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "khaika_gui",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

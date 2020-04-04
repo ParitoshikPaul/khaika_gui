@@ -1,0 +1,7 @@
+{
+  "name": "khaika_gui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
